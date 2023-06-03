@@ -1,0 +1,30 @@
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\bin\Debug\Rumble.exe.config
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\bin\Debug\Rumble.exe
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\bin\Debug\Rumble.pdb
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.csprojAssemblyReference.cache
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.Properties.Resources.resources
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.csproj.GenerateResource.cache
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.csproj.CoreCompileInputs.cache
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.exe
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.pdb
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.Main.resources
+C:\Users\Borna Mišetić\Desktop\BornaGameRumble-vol2\Rumble\obj\Debug\Rumble.Startup.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\bin\Debug\Rumble.exe.config
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\bin\Debug\Rumble.exe
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\bin\Debug\Rumble.pdb
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.csproj.AssemblyReference.cache
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.Properties.Resources.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.Startup.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.csproj.GenerateResource.cache
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.csproj.CoreCompileInputs.cache
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.exe
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.pdb
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.MainMenu.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.AdminLogin.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.GameSelect.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.AdminPanel.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.FlappyBird.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.Frogger.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.Pong.resources
+C:\Users\Borna\Desktop\borna-game-rumble-vol2\obj\Debug\Rumble.Snake.resources
